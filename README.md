@@ -1,2 +1,2 @@
-# omatnettisivut
+# ekanettisivu
 Ensimmäiset nettisivut
